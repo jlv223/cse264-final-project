@@ -2,4 +2,12 @@
 
 ## Project members: Jessica Vogel, 
 
-## Web App Description
+## App Name: 
+
+## Web App Functionality
+
+## USer story/use case
+
+## Techincal Design
+
+## Tools/libraries/frameworks we will use
