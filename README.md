@@ -1,8 +1,8 @@
 # CSE264 Final Project
 
-## Project members: Jessica Vogel, Caroline Geiger, Eddie Diggs, Anousha Mehta
+## Project members: Jessica Vogel, Caroline Geiger, Eddie Diggs, Anousha Mehta, Quinn Robertson, Matt Sireci
 
-## App Name: 
+## App Name:
 
 ## Web App Functionality
 
